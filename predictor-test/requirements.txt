@@ -1,0 +1,5 @@
+joblib
+numpy
+scikit-learn
+xgboost
+vivienda_predictor-0.1-py3-none-any.whl
